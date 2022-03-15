@@ -10,9 +10,6 @@ import javax.persistence.Table;
 
 public class Users {
 	
-	public class User{
-		
-	}
 	public Users(int users_id, String users_fname, String users_lname, String users_email) {
 		super();
 		this.users_id = users_id;
